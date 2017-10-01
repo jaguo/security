@@ -1,0 +1,1 @@
+/usr/bin/c++  -std=c++11   -rdynamic CMakeFiles/safeCanary.dir/safeCanary.cpp.o  -o safeCanary -ldyninstAPI -lpatchAPI -linstructionAPI -ldynC_API -lcommon -lparseAPI -lsymtabAPI -ldynDwarf -lstackwalk 

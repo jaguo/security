@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/guo/Desktop/canary/safeCanary.cpp
+iostream
+-
+cstdio
+-
+cstring
+-
+regex
+-
+BPatch.h
+/home/guo/Desktop/canary/BPatch.h
+BPatch_basicBlock.h
+/home/guo/Desktop/canary/BPatch_basicBlock.h
+BPatch_flowGraph.h
+/home/guo/Desktop/canary/BPatch_flowGraph.h
+BPatch_function.h
+/home/guo/Desktop/canary/BPatch_function.h
+BPatch_object.h
+/home/guo/Desktop/canary/BPatch_object.h
+BPatch_point.h
+/home/guo/Desktop/canary/BPatch_point.h
+BPatch_snippet.h
+/home/guo/Desktop/canary/BPatch_snippet.h
+PatchMgr.h
+/home/guo/Desktop/canary/PatchMgr.h
+PatchModifier.h
+/home/guo/Desktop/canary/PatchModifier.h
+Point.h
+/home/guo/Desktop/canary/Point.h
+Snippet.h
+/home/guo/Desktop/canary/Snippet.h
+Buffer.h
+/home/guo/Desktop/canary/Buffer.h
+

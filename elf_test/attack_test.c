@@ -1,0 +1,22 @@
+#include <stdlib.h>
+#include <stdio.h>
+#include <unistd.h>
+#include <string.h>
+
+// char data[100] = \
+// "\xeb\x19\x31\xc0\x31\xdb\x31\xc9\x31\xd2\xb0\x04\xb2\x0e\x59\xb3\x01\xcd\x80\x31\xc0\xb0\x01"\
+// "\x31\xdb\xcd\x80\xe8\xe2\xff\xff\xff\x48\x65\x6c\x6c\x6f\x2c\x20\x57\x6f\x72\x6c\x64\x21\x0a";
+char data[100];
+
+void f()
+{
+    char buff[4];
+    fgets(buff, 32, stdin);
+}
+
+int main()
+{
+    fgets(data, 100, stdin);
+    f();
+    return 0;
+}

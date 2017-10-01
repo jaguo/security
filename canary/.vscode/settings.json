@@ -1,0 +1,14 @@
+{
+    "files.associations": {
+        "array": "cpp",
+        "hash_map": "cpp",
+        "hash_set": "cpp",
+        "bitset": "cpp",
+        "slist": "cpp",
+        "initializer_list": "cpp",
+        "utility": "cpp",
+        "typeinfo": "cpp",
+        "*.ipp": "cpp"
+    },
+    "python.formatting.provider": "autopep8"
+}

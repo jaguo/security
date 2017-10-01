@@ -1,0 +1,5 @@
+/home/guo/Desktop/canary/CMakeFiles/rebuild_cache.dir
+/home/guo/Desktop/canary/CMakeFiles/demo.dir
+/home/guo/Desktop/canary/CMakeFiles/instCanary.dir
+/home/guo/Desktop/canary/CMakeFiles/safeCanary.dir
+/home/guo/Desktop/canary/CMakeFiles/edit_cache.dir
